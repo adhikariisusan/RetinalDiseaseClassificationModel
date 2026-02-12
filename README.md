@@ -8,7 +8,7 @@ This repository contains a Deep Learning model designed to classify retinal dise
 
 ## 📌 Overview
 
-Early detection of retinal diseases is critical for preventing permanent vision loss. This project focuses on classifying OCT scans into four distinct categories:
+Early detection of retinal diseases is critical for preventing permanent vision loss. This project focuses on classifying OCT scans into 47 distinct categories including:
 
 * **CNV (Choroidal Neovascularization):** Abnormal blood vessel growth.
 * **DME (Diabetic Macular Edema):** Fluid buildup in the retina.
@@ -17,8 +17,8 @@ Early detection of retinal diseases is critical for preventing permanent vision 
 
 ## 📂 Project Structure
 
-* `the_real_6th_proj.ipynb`: The main Jupyter Notebook containing the data pipeline, model architecture, training, and evaluation.
-* `data/`: (Expected) Folder containing training, validation, and test datasets.
+* `project.ipynb`: The main Jupyter Notebook containing the data pipeline, model architecture, training, and evaluation.
+* `data/`: (Expected) Folder containing training, validation, and test datasets. I have pulled the data in the ipynb straight from kaggle
 
 ## 🚀 Key Features
 
